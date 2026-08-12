@@ -1,4 +1,6 @@
+
 print("Hola Mundo desde Main!!")
+
 
 numero = int(input("Ingrese un numero: "))
 numero2 = int(input("Ingresar otro numero: "))
